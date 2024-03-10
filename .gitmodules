@@ -1,0 +1,9 @@
+[submodule "Linkage-RecyclerView"]
+	path = Linkage-RecyclerView
+	url = git@github.com:cybernhl/Linkage-RecyclerView.git
+[submodule "FlowHelper"]
+	path = FlowHelper
+	url = git@github.com:cybernhl/FlowHelper.git
+[submodule "GangedRecyclerview"]
+	path = GangedRecyclerview
+	url = git@github.com:cybernhl/GangedRecyclerview.git
